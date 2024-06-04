@@ -1,8 +1,8 @@
 <component name="libraryTable">
   <library name="mysql-connector-java-8.0.29">
     <CLASSES>
-      <root url="jar://$PROJECT_DIR$/untitled/mysql-connector-java-8.0.29.jar!/" />
-      <root url="jar://$PROJECT_DIR$/untitled/mongodb-driver-sync-5.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars_poms/mongodb-driver-sync-5.1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/jars_poms/mysql-connector-java-8.0.29.jar!/" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
