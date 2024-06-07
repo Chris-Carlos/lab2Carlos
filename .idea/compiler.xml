@@ -10,8 +10,10 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="untitled" />
-        <module name="mongodb-driver-sync" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="mongodb-driver-sync" target="20" />
+    </bytecodeTargetLevel>
   </component>
 </project>
